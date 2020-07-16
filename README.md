@@ -6,8 +6,6 @@ In my day job I help to make awesome PHP applications that help to bring the wor
 
 #### Tell me more🤔
 
-One of the most important lessons I've learnt as someone who writes software for a living is that writing code is not actually the goal of the job. Actually, it's just an (important!) implementation detail. The actual purpose of the job is about enabling people to do the things that they otherwise would not be able to do. That's why we write our code, because the applications that we help deliver enable customers and fellow staff to do amazing things.
-
 Sometimes in my career, I've looked for a library to complete what I imagined to be a fairly common task and to my surprise have found that one either doesn't exist or has been abandoned by it's original author. This makes me sad, sometimes sad enough that I've decided to do something about it 😇.
 
 Those libraries have now recorded over 400,000 downloads on Packagist so I'm fairly confident that there are people out there using them to do all sorts of wonderful things.
