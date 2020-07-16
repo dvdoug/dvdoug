@@ -10,7 +10,7 @@ Sometimes in my career, I've looked for a library to complete what I imagined to
 
 Those libraries have now recorded over 400,000 downloads on Packagist so I'm fairly confident that there are people out there using them to do all sorts of wonderful things.
 
-## 📦[BoxPacker](https://github.com/dvdoug/BoxPacker) [![Download count](https://img.shields.io/packagist/dt/dvdoug/boxpacker.svg)](https://packagist.org/packages/dvdoug/boxpacker)
+## 📦[BoxPacker](https://boxpacker.io) [![Download count](https://img.shields.io/packagist/dt/dvdoug/boxpacker.svg)](https://packagist.org/packages/dvdoug/boxpacker)
 An original creation because nothing else in PHP-land existed. When you try and get a pricing quote from a courier, you're asked for the width/length/depth of the box and it's weight. When you're working in e-commerce, weight is easy: you simply add up the individual weights of the all the stuff the customer ordered. But the dimensions of the box(es)? That's....more complex.
 
 ## 🌍[PHPCoord](https://github.com/dvdoug/PHPCoord) [![Download count](https://img.shields.io/packagist/dt/php-coord/php-coord.svg)](https://packagist.org/packages/php-coord/php-coord)
