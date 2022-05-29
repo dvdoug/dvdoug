@@ -22,7 +22,7 @@ you simply add up the individual weights of the all the stuff the customer order
 
 But the dimensions of the box(es)? That's....more complex.
 
-## 🌍[PHPCoord](https://www.phpcoord.net) [![Download count](https://img.shields.io/packagist/dt/php-coord/php-coord.svg)](https://packagist.org/packages/php-coord/php-coord)
+## 🌍[PHPCoord](https://phpcoord.net) [![Download count](https://img.shields.io/packagist/dt/php-coord/php-coord.svg)](https://packagist.org/packages/php-coord/php-coord)
 If you have a latitude/longitude from GPS and just want to plot it on Google Maps or OpenStreetMap you probably don't need this.
 But if you have grid co-ordinates from a national mapping system e.g. the UK's Ordnance Survey and need to convert them,
 or have recently had your mind blown by discovering that the GPS latitude/longitude of a spot does not always agree with
@@ -32,7 +32,7 @@ first needed to do co-ordinate conversion, but was written for PHP4. I polished 
 Since then, the project has been completely rewritten and now supports over 6000 different coordinate systems, up from
 just 10 in previous versions.
 
-## 📈[behat-code-coverage](https://github.com/dvdoug/behat-code-coverage) [![Download count](https://img.shields.io/packagist/dt/dvdoug/behat-code-coverage.svg)](https://packagist.org/packages/dvdoug/behat-code-coverage)
+## 📈[Behat Code Coverage](https://behat.cc) [![Download count](https://img.shields.io/packagist/dt/dvdoug/behat-code-coverage.svg)](https://packagist.org/packages/dvdoug/behat-code-coverage)
 My most recent pick-up, this is actually a fork of an abandoned fork of a long-abandoned project making me something of a
 3rd-generation maintainer. This Behat extension allows you to generate code coverage reports when running a Behat test suite,
 just like those you can get when running PHPUnit.
